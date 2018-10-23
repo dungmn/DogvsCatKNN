@@ -1,9 +1,9 @@
 # DogvsCatKNN
 ## Create train, test:
-python initdata.py
+```python initdata.py```
 ## Classify DogvsCat using KNN
-python classification.py
+```python classification.py```
 ## Accuracy
-python analyze.py
+```python analyze.py```
 
 # Accuracy ~ 0.98
